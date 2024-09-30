@@ -1,0 +1,14 @@
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day 5\Method Assignment\Method Assignment\bin\Debug\net6.0\Method Assignment.exe
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day 5\Method Assignment\Method Assignment\bin\Debug\net6.0\Method Assignment.deps.json
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day 5\Method Assignment\Method Assignment\bin\Debug\net6.0\Method Assignment.runtimeconfig.json
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day 5\Method Assignment\Method Assignment\bin\Debug\net6.0\Method Assignment.dll
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day 5\Method Assignment\Method Assignment\bin\Debug\net6.0\Method Assignment.pdb
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day 5\Method Assignment\Method Assignment\obj\Debug\net6.0\Method Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day 5\Method Assignment\Method Assignment\obj\Debug\net6.0\Method Assignment.AssemblyInfoInputs.cache
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day 5\Method Assignment\Method Assignment\obj\Debug\net6.0\Method Assignment.AssemblyInfo.cs
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day 5\Method Assignment\Method Assignment\obj\Debug\net6.0\Method Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day 5\Method Assignment\Method Assignment\obj\Debug\net6.0\Method Assignment.dll
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day 5\Method Assignment\Method Assignment\obj\Debug\net6.0\refint\Method Assignment.dll
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day 5\Method Assignment\Method Assignment\obj\Debug\net6.0\Method Assignment.pdb
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day 5\Method Assignment\Method Assignment\obj\Debug\net6.0\Method Assignment.genruntimeconfig.cache
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day 5\Method Assignment\Method Assignment\obj\Debug\net6.0\ref\Method Assignment.dll

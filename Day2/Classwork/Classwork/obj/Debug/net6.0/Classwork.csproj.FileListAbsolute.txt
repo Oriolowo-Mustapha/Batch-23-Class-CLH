@@ -1,0 +1,14 @@
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day2\Classwork\Classwork\bin\Debug\net6.0\Classwork.exe
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day2\Classwork\Classwork\bin\Debug\net6.0\Classwork.deps.json
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day2\Classwork\Classwork\bin\Debug\net6.0\Classwork.runtimeconfig.json
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day2\Classwork\Classwork\bin\Debug\net6.0\Classwork.dll
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day2\Classwork\Classwork\bin\Debug\net6.0\Classwork.pdb
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day2\Classwork\Classwork\obj\Debug\net6.0\Classwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day2\Classwork\Classwork\obj\Debug\net6.0\Classwork.AssemblyInfoInputs.cache
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day2\Classwork\Classwork\obj\Debug\net6.0\Classwork.AssemblyInfo.cs
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day2\Classwork\Classwork\obj\Debug\net6.0\Classwork.csproj.CoreCompileInputs.cache
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day2\Classwork\Classwork\obj\Debug\net6.0\Classwork.dll
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day2\Classwork\Classwork\obj\Debug\net6.0\refint\Classwork.dll
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day2\Classwork\Classwork\obj\Debug\net6.0\Classwork.pdb
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day2\Classwork\Classwork\obj\Debug\net6.0\Classwork.genruntimeconfig.cache
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day2\Classwork\Classwork\obj\Debug\net6.0\ref\Classwork.dll

@@ -1,0 +1,12 @@
+﻿ProductManager productManager = new ProductManager();
+//productManager.AddProduct();
+//ProductManager.RetrieveFromFile();
+//ProductManager.GetAll();
+Console.WriteLine("Enter Product Name");
+string pName = Console.ReadLine();
+//ProductManager.GetProduct(pName);
+//ProductManager.RemoveProduct();
+//ProductManager.RetrieveDeletedStockFromFile();
+//ProductManager.GetAll();
+ProductManager.UpdateProduct(pName);
+ProductManager.GetAll();

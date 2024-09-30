@@ -1,0 +1,14 @@
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Intro To OOP\Intro To OOP\Intro To OOP\bin\Debug\net6.0\Intro To OOP.exe
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Intro To OOP\Intro To OOP\Intro To OOP\bin\Debug\net6.0\Intro To OOP.deps.json
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Intro To OOP\Intro To OOP\Intro To OOP\bin\Debug\net6.0\Intro To OOP.runtimeconfig.json
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Intro To OOP\Intro To OOP\Intro To OOP\bin\Debug\net6.0\Intro To OOP.dll
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Intro To OOP\Intro To OOP\Intro To OOP\bin\Debug\net6.0\Intro To OOP.pdb
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Intro To OOP\Intro To OOP\Intro To OOP\obj\Debug\net6.0\Intro To OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Intro To OOP\Intro To OOP\Intro To OOP\obj\Debug\net6.0\Intro To OOP.AssemblyInfoInputs.cache
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Intro To OOP\Intro To OOP\Intro To OOP\obj\Debug\net6.0\Intro To OOP.AssemblyInfo.cs
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Intro To OOP\Intro To OOP\Intro To OOP\obj\Debug\net6.0\Intro To OOP.csproj.CoreCompileInputs.cache
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Intro To OOP\Intro To OOP\Intro To OOP\obj\Debug\net6.0\Intro To OOP.dll
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Intro To OOP\Intro To OOP\Intro To OOP\obj\Debug\net6.0\refint\Intro To OOP.dll
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Intro To OOP\Intro To OOP\Intro To OOP\obj\Debug\net6.0\Intro To OOP.pdb
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Intro To OOP\Intro To OOP\Intro To OOP\obj\Debug\net6.0\Intro To OOP.genruntimeconfig.cache
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Intro To OOP\Intro To OOP\Intro To OOP\obj\Debug\net6.0\ref\Intro To OOP.dll

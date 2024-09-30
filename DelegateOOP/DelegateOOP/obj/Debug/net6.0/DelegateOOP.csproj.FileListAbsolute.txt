@@ -1,0 +1,14 @@
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\DelegateOOP\DelegateOOP\bin\Debug\net6.0\DelegateOOP.exe
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\DelegateOOP\DelegateOOP\bin\Debug\net6.0\DelegateOOP.deps.json
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\DelegateOOP\DelegateOOP\bin\Debug\net6.0\DelegateOOP.runtimeconfig.json
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\DelegateOOP\DelegateOOP\bin\Debug\net6.0\DelegateOOP.dll
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\DelegateOOP\DelegateOOP\bin\Debug\net6.0\DelegateOOP.pdb
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\DelegateOOP\DelegateOOP\obj\Debug\net6.0\DelegateOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\DelegateOOP\DelegateOOP\obj\Debug\net6.0\DelegateOOP.AssemblyInfoInputs.cache
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\DelegateOOP\DelegateOOP\obj\Debug\net6.0\DelegateOOP.AssemblyInfo.cs
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\DelegateOOP\DelegateOOP\obj\Debug\net6.0\DelegateOOP.csproj.CoreCompileInputs.cache
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\DelegateOOP\DelegateOOP\obj\Debug\net6.0\DelegateOOP.dll
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\DelegateOOP\DelegateOOP\obj\Debug\net6.0\refint\DelegateOOP.dll
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\DelegateOOP\DelegateOOP\obj\Debug\net6.0\DelegateOOP.pdb
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\DelegateOOP\DelegateOOP\obj\Debug\net6.0\DelegateOOP.genruntimeconfig.cache
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\DelegateOOP\DelegateOOP\obj\Debug\net6.0\ref\DelegateOOP.dll

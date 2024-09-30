@@ -1,0 +1,14 @@
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Collection\Collection\Collection\bin\Debug\net6.0\Collection.exe
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Collection\Collection\Collection\bin\Debug\net6.0\Collection.deps.json
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Collection\Collection\Collection\bin\Debug\net6.0\Collection.runtimeconfig.json
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Collection\Collection\Collection\bin\Debug\net6.0\Collection.dll
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Collection\Collection\Collection\bin\Debug\net6.0\Collection.pdb
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Collection\Collection\Collection\obj\Debug\net6.0\Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Collection\Collection\Collection\obj\Debug\net6.0\Collection.AssemblyInfoInputs.cache
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Collection\Collection\Collection\obj\Debug\net6.0\Collection.AssemblyInfo.cs
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Collection\Collection\Collection\obj\Debug\net6.0\Collection.csproj.CoreCompileInputs.cache
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Collection\Collection\Collection\obj\Debug\net6.0\Collection.dll
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Collection\Collection\Collection\obj\Debug\net6.0\refint\Collection.dll
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Collection\Collection\Collection\obj\Debug\net6.0\Collection.pdb
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Collection\Collection\Collection\obj\Debug\net6.0\Collection.genruntimeconfig.cache
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Collection\Collection\Collection\obj\Debug\net6.0\ref\Collection.dll

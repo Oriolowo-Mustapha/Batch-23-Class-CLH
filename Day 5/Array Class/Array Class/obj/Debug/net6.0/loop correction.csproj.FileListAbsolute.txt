@@ -1,0 +1,14 @@
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day 5\Array Class\Array Class\bin\Debug\net6.0\loop correction.exe
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day 5\Array Class\Array Class\bin\Debug\net6.0\loop correction.deps.json
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day 5\Array Class\Array Class\bin\Debug\net6.0\loop correction.runtimeconfig.json
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day 5\Array Class\Array Class\bin\Debug\net6.0\loop correction.dll
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day 5\Array Class\Array Class\bin\Debug\net6.0\loop correction.pdb
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day 5\Array Class\Array Class\obj\Debug\net6.0\loop correction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day 5\Array Class\Array Class\obj\Debug\net6.0\loop correction.AssemblyInfoInputs.cache
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day 5\Array Class\Array Class\obj\Debug\net6.0\loop correction.AssemblyInfo.cs
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day 5\Array Class\Array Class\obj\Debug\net6.0\loop correction.csproj.CoreCompileInputs.cache
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day 5\Array Class\Array Class\obj\Debug\net6.0\loop correction.dll
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day 5\Array Class\Array Class\obj\Debug\net6.0\refint\loop correction.dll
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day 5\Array Class\Array Class\obj\Debug\net6.0\loop correction.pdb
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day 5\Array Class\Array Class\obj\Debug\net6.0\loop correction.genruntimeconfig.cache
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day 5\Array Class\Array Class\obj\Debug\net6.0\ref\loop correction.dll

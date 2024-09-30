@@ -1,0 +1,14 @@
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day2\Assignment\SwitchCLS\SwitchCLS\bin\Debug\net6.0\SwitchCLS.exe
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day2\Assignment\SwitchCLS\SwitchCLS\bin\Debug\net6.0\SwitchCLS.deps.json
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day2\Assignment\SwitchCLS\SwitchCLS\bin\Debug\net6.0\SwitchCLS.runtimeconfig.json
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day2\Assignment\SwitchCLS\SwitchCLS\bin\Debug\net6.0\SwitchCLS.dll
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day2\Assignment\SwitchCLS\SwitchCLS\bin\Debug\net6.0\SwitchCLS.pdb
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day2\Assignment\SwitchCLS\SwitchCLS\obj\Debug\net6.0\SwitchCLS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day2\Assignment\SwitchCLS\SwitchCLS\obj\Debug\net6.0\SwitchCLS.AssemblyInfoInputs.cache
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day2\Assignment\SwitchCLS\SwitchCLS\obj\Debug\net6.0\SwitchCLS.AssemblyInfo.cs
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day2\Assignment\SwitchCLS\SwitchCLS\obj\Debug\net6.0\SwitchCLS.csproj.CoreCompileInputs.cache
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day2\Assignment\SwitchCLS\SwitchCLS\obj\Debug\net6.0\SwitchCLS.dll
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day2\Assignment\SwitchCLS\SwitchCLS\obj\Debug\net6.0\refint\SwitchCLS.dll
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day2\Assignment\SwitchCLS\SwitchCLS\obj\Debug\net6.0\SwitchCLS.pdb
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day2\Assignment\SwitchCLS\SwitchCLS\obj\Debug\net6.0\SwitchCLS.genruntimeconfig.cache
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Day2\Assignment\SwitchCLS\SwitchCLS\obj\Debug\net6.0\ref\SwitchCLS.dll

@@ -1,0 +1,14 @@
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\GenericDelegate\GenericDelegate\bin\Debug\net6.0\GenericDelegate.exe
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\GenericDelegate\GenericDelegate\bin\Debug\net6.0\GenericDelegate.deps.json
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\GenericDelegate\GenericDelegate\bin\Debug\net6.0\GenericDelegate.runtimeconfig.json
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\GenericDelegate\GenericDelegate\bin\Debug\net6.0\GenericDelegate.dll
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\GenericDelegate\GenericDelegate\bin\Debug\net6.0\GenericDelegate.pdb
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\GenericDelegate\GenericDelegate\obj\Debug\net6.0\GenericDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\GenericDelegate\GenericDelegate\obj\Debug\net6.0\GenericDelegate.AssemblyInfoInputs.cache
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\GenericDelegate\GenericDelegate\obj\Debug\net6.0\GenericDelegate.AssemblyInfo.cs
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\GenericDelegate\GenericDelegate\obj\Debug\net6.0\GenericDelegate.csproj.CoreCompileInputs.cache
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\GenericDelegate\GenericDelegate\obj\Debug\net6.0\GenericDelegate.dll
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\GenericDelegate\GenericDelegate\obj\Debug\net6.0\refint\GenericDelegate.dll
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\GenericDelegate\GenericDelegate\obj\Debug\net6.0\GenericDelegate.pdb
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\GenericDelegate\GenericDelegate\obj\Debug\net6.0\GenericDelegate.genruntimeconfig.cache
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\GenericDelegate\GenericDelegate\obj\Debug\net6.0\ref\GenericDelegate.dll

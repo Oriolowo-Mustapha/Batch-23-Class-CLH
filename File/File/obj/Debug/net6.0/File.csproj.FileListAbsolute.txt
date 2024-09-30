@@ -1,0 +1,14 @@
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\File\File\bin\Debug\net6.0\File.exe
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\File\File\bin\Debug\net6.0\File.deps.json
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\File\File\bin\Debug\net6.0\File.runtimeconfig.json
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\File\File\bin\Debug\net6.0\File.dll
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\File\File\bin\Debug\net6.0\File.pdb
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\File\File\obj\Debug\net6.0\File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\File\File\obj\Debug\net6.0\File.AssemblyInfoInputs.cache
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\File\File\obj\Debug\net6.0\File.AssemblyInfo.cs
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\File\File\obj\Debug\net6.0\File.csproj.CoreCompileInputs.cache
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\File\File\obj\Debug\net6.0\File.dll
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\File\File\obj\Debug\net6.0\refint\File.dll
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\File\File\obj\Debug\net6.0\File.pdb
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\File\File\obj\Debug\net6.0\File.genruntimeconfig.cache
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\File\File\obj\Debug\net6.0\ref\File.dll
