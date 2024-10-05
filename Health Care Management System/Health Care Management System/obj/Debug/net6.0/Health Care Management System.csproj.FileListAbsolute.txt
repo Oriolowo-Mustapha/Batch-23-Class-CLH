@@ -1,0 +1,14 @@
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Health Care Management System\Health Care Management System\bin\Debug\net6.0\Health Care Management System.exe
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Health Care Management System\Health Care Management System\bin\Debug\net6.0\Health Care Management System.deps.json
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Health Care Management System\Health Care Management System\bin\Debug\net6.0\Health Care Management System.runtimeconfig.json
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Health Care Management System\Health Care Management System\bin\Debug\net6.0\Health Care Management System.dll
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Health Care Management System\Health Care Management System\bin\Debug\net6.0\Health Care Management System.pdb
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Health Care Management System\Health Care Management System\obj\Debug\net6.0\Health Care Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Health Care Management System\Health Care Management System\obj\Debug\net6.0\Health Care Management System.AssemblyInfoInputs.cache
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Health Care Management System\Health Care Management System\obj\Debug\net6.0\Health Care Management System.AssemblyInfo.cs
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Health Care Management System\Health Care Management System\obj\Debug\net6.0\Health Care Management System.csproj.CoreCompileInputs.cache
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Health Care Management System\Health Care Management System\obj\Debug\net6.0\Health Care Management System.dll
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Health Care Management System\Health Care Management System\obj\Debug\net6.0\refint\Health Care Management System.dll
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Health Care Management System\Health Care Management System\obj\Debug\net6.0\Health Care Management System.pdb
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Health Care Management System\Health Care Management System\obj\Debug\net6.0\Health Care Management System.genruntimeconfig.cache
+C:\Users\ORIOLOWO\Documents\Batch 23 Class\Health Care Management System\Health Care Management System\obj\Debug\net6.0\ref\Health Care Management System.dll
