@@ -1,4 +1,5 @@
 ﻿AppointmentFile.RetrieveFromFile();
+AppointmentFile.RetrieveAcceptedAppointmentFromFile();  
 DoctorFile.RetrieveFromFile();
 MedicalRecordFile.RetrieveFromFile();
 PatientFile.RetrieveFromFile(); 

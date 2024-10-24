@@ -4,8 +4,8 @@
     public static void AddMedicalRecord()
     {
         Random random = new Random();
-        Console.Write("Record ID=> ");
         int recordID = random.Next(100000, 999999);
+        Console.WriteLine($"Record ID=> {recordID}");
         Console.Write("Patient ID=> ");
         int patientId = int.Parse(Console.ReadLine());
         Console.Write("Diagnosis=> ");

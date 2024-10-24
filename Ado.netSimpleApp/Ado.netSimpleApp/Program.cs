@@ -1,8 +1,13 @@
 ﻿Student student = new Student();
+Instructor instructor = new Instructor();
 //StudentManager.CreateDB();
-//StudentManager.CreateStudentTable();
+////StudentManager.CreateStudentTable();
 //StudentManager.CreateStudent(student);
 //StudentManager.UpdateStudent();
 //StudentManager.DeleteStudent();
 //StudentManager.GetAllStudents();
-StudentManager.GetStudents();
+//StudentManager.GetStudents();
+//InstructorManager.CreateInstructors(instructor);
+//InstructorManager.DeleteInstructor();
+//InstructorManager.GetStudentAndSupervisors();
+InstructorManager.GetStudentsAndSupervisorsUsingFullJoin();

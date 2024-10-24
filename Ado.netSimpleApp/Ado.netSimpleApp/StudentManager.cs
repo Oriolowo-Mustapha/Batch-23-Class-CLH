@@ -5,7 +5,7 @@ using System.Xml.Linq;
 public class StudentManager
 {
     private static string ConnectionStringWithoutDB = "Server = localhost; User = root; password = password";
-    private static string ConnectionString = "Server = localhost; User = root; database = StudentDataBase; password = password";
+    private static string ConnectionString = "Server = localhost; User = root; database = StudentDataBase; password = password"; 
     public static void CreateDB()
     {
         using (MySqlConnection connection = new MySqlConnection(ConnectionStringWithoutDB))
@@ -53,7 +53,7 @@ public class StudentManager
         using (MySqlConnection connection = new MySqlConnection(ConnectionString))
         {
             connection.Open();
-            MySqlCommand insert = new MySqlCommand($"insert into StudentDataBase.students(name, address, email) values('{student.Name = "Bola"}', '{student.Address= "Abeokuta"}','{student.Email = "Bola@gmail.com"}');", connection);
+            MySqlCommand insert = new MySqlCommand($"insert into StudentDataBase.students(name, address, email) values('{student.Name = "Mole"}', '{student.Address= "Canada"}','{student.Email = "Mole@gmail.com"}');", connection);
 
             
             var execute = insert.ExecuteNonQuery();
@@ -62,7 +62,7 @@ public class StudentManager
             {
                 Console.WriteLine("Student Created Successfully.");
             }
-            else
+            else 
             {
                 Console.WriteLine("Unable To Create Student.");
             }
@@ -95,7 +95,7 @@ public class StudentManager
         using (MySqlConnection connection = new MySqlConnection(ConnectionString))
         {
             connection.Open();
-            string query = "delete from students where id = 1;";
+            string query = "delete from students where id = 7;";
 
             MySqlCommand command = new MySqlCommand(query, connection);
             var execute = command.ExecuteNonQuery();

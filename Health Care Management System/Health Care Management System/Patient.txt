@@ -1,2 +1,5 @@
 702465	|	Oriolowo	|	16	|	Male	|	m@gmail.com
 841552	|	John Doe	|	22	|	Male	|	090222222
+481835	|	Bola	|	89	|	Male	|	0903736633
+381268	|	Ahmed	|	45	|	Male	|	0938388383
+577533	|	Folawemi	|	27	|	Female	|	folawemi@gmail.com

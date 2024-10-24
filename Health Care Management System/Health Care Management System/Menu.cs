@@ -33,6 +33,7 @@ public class Menu
         var loggedInDoctor = DoctorFile.Login(id);
         var loggedInPatient = PatientFile.Login(id);
         var loggedInAdmin = Admin.Login(id);
+        var getCount = AppointmentFile.Get();
         if ( loggedInDoctor != null)
         {
             doctorMenu(loggedInDoctor);
@@ -43,7 +44,11 @@ public class Menu
         }
         else if (loggedInAdmin != null)
         {
-            adminMenu(loggedInAdmin);
+            if (getCount == 0)
+            {
+                adminMenu(loggedInAdmin);
+            }
+            AppointmentFile.RescheduleDeclined(loggedInAdmin);
         }
         else
         {
@@ -145,6 +150,7 @@ public class Menu
 
     public static void adminMenu(Admin admin)
     {
+        var getCount = AppointmentFile.Get();
         bool run = true;
         while (run)
         {
@@ -159,7 +165,8 @@ public class Menu
             Console.WriteLine("9. SHEDULE APPOINTMENT.");
             Console.WriteLine("10. RESHEDULE APPOINTMENT");
             Console.WriteLine("11. VIEW ALL APPOINTMENT.");
-            Console.WriteLine("12. LOGOUT.");
+            Console.WriteLine("12. VIEW ACCEPTED APPOINTMENT.");
+            Console.WriteLine("13. LOGOUT.");
             Console.Write("CHOOSE ANY OF THE FOLLOWING OPTIONS TO CONTINUE=> ");
             int input = int.Parse(Console.ReadLine());
             switch (input)
@@ -193,6 +200,10 @@ public class Menu
                     PatientFile.DeletePatient();
                     break;
                 case 9:
+                    if (getCount == 0)
+                    {
+                        AppointmentFile.ScheduleAppointment2();
+                    }
                     AppointmentFile.ScheduleAppointment();
 
                     break;
@@ -206,6 +217,9 @@ public class Menu
                     AppointmentFile.GetAllAppointment();
                     break;
                 case 12:
+                    AppointmentFile.GetAllAcceptedAppointment();
+                    break;
+                case 13:
                     run = false;
                     break;
                 default:

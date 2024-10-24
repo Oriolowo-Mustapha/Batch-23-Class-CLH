@@ -1,1 +1,2 @@
 144556	|	841552	|	Diabetics	|	Surgery	|	15/10/2024 00:00:00	|	Due to high sugar level of the patient led to development of diabetics
+106266	|	577533	|	Congratulations its a boy	|	Null	|	09/12/2024 00:00:00	|	 Congratulations its a boy

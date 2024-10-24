@@ -7,6 +7,7 @@ public class Doctor
     public string Specialty { get; set; }
     public string ContactInfo { get; set; }
 
+
     public Doctor()
     {
 
